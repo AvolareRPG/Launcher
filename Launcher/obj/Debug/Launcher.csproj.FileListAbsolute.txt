@@ -1,0 +1,13 @@
+D:\GitHub\Launcher\Launcher\bin\Debug\Launcher.exe.config
+D:\GitHub\Launcher\Launcher\bin\Debug\Launcher.exe
+D:\GitHub\Launcher\Launcher\bin\Debug\Launcher.pdb
+D:\GitHub\Launcher\Launcher\obj\Debug\Launcher.csprojAssemblyReference.cache
+D:\GitHub\Launcher\Launcher\obj\Debug\Launcher.frmMain.resources
+D:\GitHub\Launcher\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+D:\GitHub\Launcher\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+D:\GitHub\Launcher\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+D:\GitHub\Launcher\Launcher\obj\Debug\Launcher.exe
+D:\GitHub\Launcher\Launcher\obj\Debug\Launcher.pdb
+D:\GitHub\Launcher\Launcher\bin\Debug\RED7Studios.UI.dll
+D:\GitHub\Launcher\Launcher\bin\Debug\RED7Studios.UI.pdb
+D:\GitHub\Launcher\Launcher\obj\Debug\Launcher.csproj.CopyComplete
